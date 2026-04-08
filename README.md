@@ -37,3 +37,8 @@ The application demonstrates key concepts such as:
 ```bash
 git clone https://github.com/your-username/ethical-keylogger.git
 cd ethical-keylogger
+
+###2. Install Requirements
+
+No external libraries are required. Tkinter comes pre-installed with Python.
+
