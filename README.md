@@ -50,7 +50,7 @@ cd ethical-keylogger
 
 ### Step 2: Run the Python File
 ```bash
-python main.py
+python keylogger.py
 ```
 
 ### Step 3: Use the Application
